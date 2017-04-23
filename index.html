@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- META Tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <meta author="Nicolas Leucci - EPSI Arras i5">
+        <!-- Styles -->
+        <link rel="stylesheet" type="text/css" href="css/lib/materialize.min.css">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+		<title>AirBNB App</title>
+	</head>
+	<body>
+
+		<!-- Preloader -->
+		<div id="preloader">
+			<div class="preloader-wrapper big active">
+				<div class="spinner-layer spinner-green-only">
+					<div class="circle-clipper left">
+						<div class="circle"></div>
+					</div>
+					<div class="gap-patch">
+						<div class="circle"></div>
+					</div>
+					<div class="circle-clipper right">
+						<div class="circle"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Main container -->
+		<div id="main-container" class="container">
+			<div class="header">
+				<h3>Find My Airbnb</h3>
+				<p>Recherchez l'hôtel idéal pour votre séjour en effectuant une simple recherche.</p>
+			</div>
+			<div class="row">
+				<form class="col s12" action="" method="GET" onsubmit="search(); return false;">
+					<div class="row">
+						<!-- Place -->
+						<div class="input-field col s12">
+							<label for="place">Lieu : </label>
+							<input placeholder="Ex: Paris, Dijon, Marseille ..." id="place" type="text" class="validate">
+						</div>
+						<!-- Travelers -->
+						<div class="input-field col s12">
+							<select id="travelers">
+								<option value="1" selected>1</option>
+								<option value="2">2</option>
+								<option value="3">3</option>
+								<option value="4">4</option>
+								<option value="5">5</option>
+								<option value="6">6</option>
+								<option value="7">7</option>
+								<option value="8">8</option>
+								<option value="9">9</option>
+								<option value="10">10</option>
+							</select>
+							<label>Voyageur(s)</label>
+						</div>
+						<!-- Date from -->
+						<div class="input-field col s12 dateLabel">
+							Date de début
+							<input type="date" class="datepicker" id="datepicker-from">
+						</div>
+						<!-- Date to -->
+						<div class="input-field col s12 dateLabel">
+							Date de fin
+							<input type="date" class="datepicker" id="datepicker-to">
+						</div>
+
+						<input type="submit" class="waves-effect waves-light btn" value="Rechercher">
+					</div>
+				</form>
+			</div>
+		</div>
+		<!-- Scripts -->
+		<script type="text/javascript" src="cordova.js"></script>
+		<script type="text/javascript" src="js/lib/jquery-3.0.0.min.js"></script>
+		<script type="text/javascript" src="js/lib/materialize.min.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
+	</body>
+</html>

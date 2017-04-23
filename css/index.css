@@ -1,0 +1,18 @@
+
+#preloader {
+    margin: auto;
+    margin: 20px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    display: none;
+}
+
+/*
+  Fix du label date sur mobile
+*/
+.dateLabel {
+    text-align: left;
+}
