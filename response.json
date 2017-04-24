@@ -1,0 +1,1974 @@
+{
+  "results_json": {
+    "search_results": [
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 15711710,
+          "instant_bookable": true,
+          "is_business_travel_ready": true,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.62155006491003,
+          "lng": 3.060946539905335,
+          "localized_city": "Lille",
+          "name": "Bel appartement proche du centre. Logement entier",
+          "person_capacity": 2,
+          "picture_count": 9,
+          "picture_url": "https://a0.muscache.com/im/pictures/3e7a9253-a910-4231-ac0c-1e4a72bd5f3c.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/3e7a9253-a910-4231-ac0c-1e4a72bd5f3c.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/7a70ca5e-6739-4900-b84a-75ed02469372.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/885548ba-1aa1-49af-8e51-3c0f9f893808.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/9b68714e-deb4-4fa6-9caa-c05fc063821f.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/ebaf036d-df6f-435b-b289-1731556232e8.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AZKOg0JFTfX598e7rf/w4wFnTkY9KTrhBvzx4c/+/fIBVA0LOAQJ5Uc/7uDMAgQAAWwyDv76/x9BUs7AtwwKAjyZHtx2G9C1AAAAAElFTkSuQmCC",
+          "reviews_count": 46,
+          "star_rating": 5.0,
+          "room_type": "Logement entier",
+          "room_type_category": "entire_home",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Maite",
+            "id": 99633629,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/b880dbde-233f-4e7b-bef7-cac39b4d68bc.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Maite",
+            "id": 99633629,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/b880dbde-233f-4e7b-bef7-cac39b4d68bc.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 24,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 16160489,
+          "instant_bookable": false,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": true,
+          "lat": 50.630955243356205,
+          "lng": 3.060002564031922,
+          "localized_city": "Lille",
+          "name": "Jolie chambre en plein centre ville",
+          "person_capacity": 1,
+          "picture_count": 6,
+          "picture_url": "https://a0.muscache.com/im/pictures/4959c6f8-d404-46ac-9b77-c6a8eee0d761.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/4959c6f8-d404-46ac-9b77-c6a8eee0d761.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/4435f234-b398-4fb2-84ca-ddfb538563ce.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/b8686e42-eacd-4837-abcb-eedee8ce66ca.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/6007ebfb-dd68-4f7d-96ad-21ca8cad1d7c.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/a943b261-7bc7-44ce-877c-93a25c58f30a.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AdSykuX3/sLO1xEKBAG3n5Df3dwlKy78Af0BQTw8gXlyDw0KqrOrARoaIW5pZdva1ra8yAExMDbn6ewGAvrz9fUfTSBPVzDo3QAAAABJRU5ErkJggg==",
+          "reviews_count": 44,
+          "star_rating": 5.0,
+          "room_type": "Chambre privée",
+          "room_type_category": "private_room",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Michael",
+            "id": 104442485,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/497ac774-26b7-4a04-8138-70a4e4043dc9.jpg?aki_policy=profile_medium",
+            "is_superhost": true
+          },
+          "primary_host": {
+            "first_name": "Michael",
+            "id": 104442485,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/497ac774-26b7-4a04-8138-70a4e4043dc9.jpg?aki_policy=profile_medium",
+            "is_superhost": true
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": false,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 32,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 16736673,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.634418526244595,
+          "lng": 3.065393423580178,
+          "localized_city": "Lille",
+          "name": "Chambre Hypercentre de Lille",
+          "person_capacity": 2,
+          "picture_count": 3,
+          "picture_url": "https://a0.muscache.com/im/pictures/7e1309a2-a675-4324-8157-fb39b4ca9a03.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/7e1309a2-a675-4324-8157-fb39b4ca9a03.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/1ba92148-53f6-4ea6-a120-91fc1a813ffa.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/9a3bd1d7-401f-4372-b16a-b478d232747b.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWNsKkvm4OAUFORjYeMREBRnLM6MunLtdmxivJqKJhs7F2OggwEHC8tfJh5hAeE/3xgYbVRFeTlY/zKy33n0WV1aBQDS+xAJ672rrQAAAABJRU5ErkJggg==",
+          "reviews_count": 12,
+          "star_rating": 5.0,
+          "room_type": "Chambre privée",
+          "room_type_category": "private_room",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Marie",
+            "id": 17714010,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/6c8c9b07-e7d9-418e-b8ac-fc0e0857c45b.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Marie",
+            "id": 17714010,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/6c8c9b07-e7d9-418e-b8ac-fc0e0857c45b.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 23,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 0,
+          "beds": 2,
+          "extra_host_languages": [],
+          "id": 16284708,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": true,
+          "lat": 50.637897748942855,
+          "lng": 3.0621366657555287,
+          "localized_city": "Lille",
+          "name": "L'école buissonnière en plein coeur du vieux Lille",
+          "person_capacity": 4,
+          "picture_count": 29,
+          "picture_url": "https://a0.muscache.com/im/pictures/ec22b36c-feaf-4ed5-8ba3-eae1f40cd95d.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/ec22b36c-feaf-4ed5-8ba3-eae1f40cd95d.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/712605e7-a04f-40a6-911e-c38795a13503.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/df84f51f-4748-43de-9337-0f992aa62c9b.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/48d37635-0612-4ebb-adc0-cf281c0ff40a.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/62b2483f-659e-438a-b0dc-36d7171031a4.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbiyrggGA/j08fX28vHr6gG8sagCBAPu7e8UFBTo4twBm4uI1N7bHBscIBsVBAYIjb8XZ0WgozsAAAAASUVORK5CYII=",
+          "reviews_count": 54,
+          "star_rating": 5.0,
+          "room_type": "Logement entier",
+          "room_type_category": "entire_home",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Corinne",
+            "id": 1019408,
+            "thumbnail_url": "https://a0.muscache.com/im/users/1019408/profile_pic/1404057544/original.jpg?aki_policy=profile_medium",
+            "is_superhost": true
+          },
+          "primary_host": {
+            "first_name": "Corinne",
+            "id": 1019408,
+            "thumbnail_url": "https://a0.muscache.com/im/users/1019408/profile_pic/1404057544/original.jpg?aki_policy=profile_medium",
+            "is_superhost": true
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 60,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 2,
+          "beds": 3,
+          "extra_host_languages": [],
+          "id": 17954543,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": true,
+          "is_superhost": false,
+          "lat": 50.63950613297339,
+          "lng": 3.0539926964940682,
+          "localized_city": "Lille",
+          "name": "Vieux Lille - Superbe appartement pour 4 pers.",
+          "person_capacity": 5,
+          "picture_count": 18,
+          "picture_url": "https://a0.muscache.com/im/pictures/59a7c328-b2f0-4d13-8dd6-f02555b31c5b.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/59a7c328-b2f0-4d13-8dd6-f02555b31c5b.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/fbc2872b-2f42-425e-90f1-9f224c0a05ee.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/2f0c51ca-1906-49ed-a0b1-28a07703daba.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/e4785724-796f-41d3-b65d-072a71ff88c6.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/5ab0a23d-f896-415d-8dd8-0944487c6b3d.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AXidxt/UzPTexBAjOg8gLQFhVkzy+QEMA/0BBgTu7vABDwsIKyAZ8/j7BwkI/P7+Bu4VCwdah8IAAAAASUVORK5CYII=",
+          "reviews_count": 1,
+          "star_rating": 0,
+          "room_type": "Logement entier",
+          "room_type_category": "entire_home",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Hugo",
+            "id": 20803108,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/76ac4b2d-9f25-4a52-a2ea-bb7fb2597474.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Hugo",
+            "id": 20803108,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/76ac4b2d-9f25-4a52-a2ea-bb7fb2597474.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 82,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 2,
+          "extra_host_languages": [],
+          "id": 13464071,
+          "instant_bookable": false,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.64357469629553,
+          "lng": 3.065428839653811,
+          "localized_city": "Lille",
+          "name": "Bel appartement dans le Vieux-Lille",
+          "person_capacity": 4,
+          "picture_count": 26,
+          "picture_url": "https://a0.muscache.com/im/pictures/ecf2a2d3-491b-4453-b7b3-918bcba755fb.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/ecf2a2d3-491b-4453-b7b3-918bcba755fb.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/bdf4f139-0a3e-43ea-ab82-a05335dd71c4.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/09b3897b-b3ba-48ba-92ed-ef546f68b249.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/e8819d9a-f3c6-412b-aa9f-f46be8e70d14.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/ae3be113-8b4e-4458-9ea9-d7191d287da0.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AZORjebo7Le4tvHv6/Dw8gFwb2cfDRTDxrjz9vXq6+4Bin9x7OnoJyYc7+biw7/DAZKWk/De0O729tzLxg4B90cKKdx/AUDVAAAAAElFTkSuQmCC",
+          "reviews_count": 79,
+          "star_rating": 5.0,
+          "room_type": "Logement entier",
+          "room_type_category": "entire_home",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Alexandre Et Agathe",
+            "id": 18488406,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/653f141e-21b1-47cb-8936-f6817962b228.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Alexandre Et Agathe",
+            "id": 18488406,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/653f141e-21b1-47cb-8936-f6817962b228.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": false,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 60,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 17970915,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.633164208586486,
+          "lng": 3.064077083906462,
+          "localized_city": "Lille",
+          "name": "Appartement T2 55m² hyper-centre, zone piétonne!",
+          "person_capacity": 2,
+          "picture_count": 11,
+          "picture_url": "https://a0.muscache.com/im/pictures/e9508b22-4d4f-437d-be31-8a5634d7795b.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/e9508b22-4d4f-437d-be31-8a5634d7795b.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/f6d9e877-b882-4536-8b37-8155eb1cef73.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/d877ae1b-4c5e-455f-9c63-b82181fccc66.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/c17d8620-f8ee-4d71-9fec-6447057d2ff3.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/745cb5a6-5765-49c6-b0c3-751ed30f7fea.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAACCAIAAAAfCIEKAAAAK0lEQVQIHQEgAN//AaeQdf4CC/j8/f36+Y6VoAFxXEsvLCfq8vz47ebZzdAygBQRW++51QAAAABJRU5ErkJggg==",
+          "reviews_count": 4,
+          "star_rating": 5.0,
+          "room_type": "Logement entier",
+          "room_type_category": "entire_home",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Rachele",
+            "id": 97095301,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/3afc33ab-d0e6-48f5-8b03-f1e68d20ea54.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Rachele",
+            "id": 97095301,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/3afc33ab-d0e6-48f5-8b03-f1e68d20ea54.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 67,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 16107166,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.62728818693273,
+          "lng": 3.0650146143429757,
+          "localized_city": "Lille",
+          "name": "Appartement douillet plein centre de Lille",
+          "person_capacity": 2,
+          "picture_count": 7,
+          "picture_url": "https://a0.muscache.com/im/pictures/cbefd698-040d-43f6-b48e-2bc39336ea64.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/cbefd698-040d-43f6-b48e-2bc39336ea64.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/700c450b-ecd4-4bf3-8811-871594380382.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/2b6c138d-3f1b-4468-a31e-58dc2633e42c.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/08061757-072e-4c0c-888e-e1c4fc897bd7.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/b82a75f9-ad44-4ce7-bddd-615a5ca87ebb.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbTI1wX58eLWzffs3BIH+AF8dGkDBQoBBgzk39otGQEBODtHBwYBGhgU5eHeEQoFLkkSz3Mxl8MAAAAASUVORK5CYII=",
+          "reviews_count": 28,
+          "star_rating": 4.5,
+          "room_type": "Logement entier",
+          "room_type_category": "entire_home",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Pierre",
+            "id": 104902186,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/8f272c34-74c6-485a-a30c-a90fc53d79f3.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Pierre",
+            "id": 104902186,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/8f272c34-74c6-485a-a30c-a90fc53d79f3.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 30,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 17120078,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.629827699218446,
+          "lng": 3.061309423711388,
+          "localized_city": "Lille",
+          "name": "Chambre dans loft au centre lille",
+          "person_capacity": 2,
+          "picture_count": 5,
+          "picture_url": "https://a0.muscache.com/im/pictures/281a7174-cbfe-46a2-b6b4-dc0000385595.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/281a7174-cbfe-46a2-b6b4-dc0000385595.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/f135f4e1-2f6f-448e-a00f-7b3e34dfac3c.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/ff197514-ff6f-4e00-bc55-d0db2a097b00.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/54592e66-b541-428c-bb61-4ba015793551.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/8779b3e6-e3ec-416a-b22e-796383761cf4.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AX93bMW6uis0Nufl4w727QFXRz4fJB0wMT3/+vnf494Bb1dU/xUNCvgByszPBggFATceIkFDD+j5Hu/s9u3T1r1dHme8+CvWAAAAAElFTkSuQmCC",
+          "reviews_count": 11,
+          "star_rating": 4.5,
+          "room_type": "Chambre privée",
+          "room_type_category": "private_room",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Jonathan",
+            "id": 98467096,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/e16b2b13-e402-435a-ac41-75b5d09c3324.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Jonathan",
+            "id": 98467096,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/e16b2b13-e402-435a-ac41-75b5d09c3324.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 31,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 15184561,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.6309372413018,
+          "lng": 3.099758889873745,
+          "localized_city": "Lille",
+          "name": "Chambre double avec balcon et sdb privée.",
+          "person_capacity": 2,
+          "picture_count": 6,
+          "picture_url": "https://a0.muscache.com/im/pictures/a7a52b1e-24b2-4335-859f-15eca6999fe0.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/a7a52b1e-24b2-4335-859f-15eca6999fe0.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/588abfde-162e-4164-b949-2c85c2b45a72.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/8b3740c5-25a7-478c-907e-4b2c9e31294a.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/505c4214-d051-4d61-9a74-3c994a8b4ea0.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/a3340949-930c-407e-9e0b-1c6d7b6da38a.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ac6ogAn57vPi2fgBBOLk5wF3YkZOPzL32ssrTF0HEhYB1baQDvn57Lm1ID1D/h4XbtUYB3NddR4AAAAASUVORK5CYII=",
+          "reviews_count": 43,
+          "star_rating": 5.0,
+          "room_type": "Chambre privée",
+          "room_type_category": "private_room",
+          "property_type": "Appartement en résidence",
+          "user": {
+            "first_name": "Maëlle",
+            "id": 96389132,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/d68176e7-9ef6-4ab9-8aeb-8eb1204c305e.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Maëlle",
+            "id": 96389132,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/d68176e7-9ef6-4ab9-8aeb-8eb1204c305e.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 31,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [
+            "en"
+          ],
+          "id": 11944636,
+          "instant_bookable": false,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.634535808233686,
+          "lng": 3.0296187653807007,
+          "localized_city": "Lille",
+          "name": "Chambre privée confortable et calme",
+          "person_capacity": 2,
+          "picture_count": 9,
+          "picture_url": "https://a0.muscache.com/ac/pictures/ded47cb9-c438-4fe3-bef9-7366201c4658.jpg?interpolation=lanczos-none&size=x_medium&output-format=jpg&output-quality=70",
+          "picture_urls": [
+            "https://a0.muscache.com/ac/pictures/ded47cb9-c438-4fe3-bef9-7366201c4658.jpg?interpolation=lanczos-none&size=x_medium&output-format=jpg&output-quality=70",
+            "https://a0.muscache.com/im/pictures/0b448bae-ad28-4c3e-8209-59a339c2a09b.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/708d2524-4a59-4efb-8391-3539abeb0020.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/c349472e-b05b-4914-b575-6f0238e97ae1.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/d1b6afa3-a2ff-452b-be32-4d1ab0233768.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AY+QjA4ICA4HAvv/AOfn5wGan6EPCw4cDf/f6/nh5eABjI+T/w8YBfjyAv7/5ePc/kQYjDSpc2MAAAAASUVORK5CYII=",
+          "reviews_count": 89,
+          "star_rating": 4.5,
+          "room_type": "Chambre privée",
+          "room_type_category": "private_room",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Alexandra",
+            "id": 63775539,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/90405567-f2de-45f9-a831-67342349c703.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Alexandra",
+            "id": 63775539,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/90405567-f2de-45f9-a831-67342349c703.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": false,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 22,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [
+            "en",
+            "es"
+          ],
+          "id": 6003272,
+          "instant_bookable": false,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.669100151952286,
+          "lng": 3.026048772510751,
+          "localized_city": "Saint-André-lez-Lille",
+          "name": "Charmante maison 5min Lille centre",
+          "person_capacity": 2,
+          "picture_count": 17,
+          "picture_url": "https://a0.muscache.com/im/pictures/86363483/75b87267_original.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/86363483/75b87267_original.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/74757911/dfc57749_original.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/87866076/71b0b93e_original.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/74758092/e885da0e_original.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/74758224/a8567ac1_original.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Saint-André-lez-Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AaXM5Mm+nQvx5hEXJtjX0wF8glfg4uU3Lj/V5c7f4eQBxL2RBQgOFRk1rbO2/wL1hjsZl+Ai5CEAAAAASUVORK5CYII=",
+          "reviews_count": 160,
+          "star_rating": 4.5,
+          "room_type": "Chambre privée",
+          "room_type_category": "private_room",
+          "property_type": "Maison",
+          "user": {
+            "first_name": "Manon",
+            "id": 8829894,
+            "thumbnail_url": "https://a0.muscache.com/im/users/8829894/profile_pic/1414196543/original.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Manon",
+            "id": 8829894,
+            "thumbnail_url": "https://a0.muscache.com/im/users/8829894/profile_pic/1414196543/original.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": false,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 24,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 16610175,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": true,
+          "lat": 50.62988730522224,
+          "lng": 3.0957151071521016,
+          "localized_city": "Lille",
+          "name": "Chambre douche privée 3mn centre ville/universités",
+          "person_capacity": 1,
+          "picture_count": 5,
+          "picture_url": "https://a0.muscache.com/ac/pictures/53c4550f-099c-46db-bd33-bee1521111bf.jpg?interpolation=lanczos-none&size=x_medium&output-format=jpg&output-quality=70",
+          "picture_urls": [
+            "https://a0.muscache.com/ac/pictures/53c4550f-099c-46db-bd33-bee1521111bf.jpg?interpolation=lanczos-none&size=x_medium&output-format=jpg&output-quality=70",
+            "https://a0.muscache.com/im/pictures/fed0827a-29f7-4d80-b8b4-f98d8a54797e.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/2da70097-a671-4785-ae0e-937f2dfbd328.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/0dcd5539-81db-4c16-bc28-9765c5be144f.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/bdc39d88-b847-4cc6-b67a-440a9f2c8074.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWNsiHcVNwv99vEdFxtLYHg4Y3uKu4hpODMru4iggLQwH2NFgOGDX5LG9i6CwpLff3xnTLCUevWLLy6nSkFV68OHTwB0lBX0ABqsCAAAAABJRU5ErkJggg==",
+          "reviews_count": 18,
+          "star_rating": 5.0,
+          "room_type": "Chambre privée",
+          "room_type_category": "private_room",
+          "property_type": "Maison",
+          "user": {
+            "first_name": "Mickael",
+            "id": 82290825,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/11d87418-02f7-443e-8514-f256173dbd9c.jpg?aki_policy=profile_medium",
+            "is_superhost": true
+          },
+          "primary_host": {
+            "first_name": "Mickael",
+            "id": 82290825,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/11d87418-02f7-443e-8514-f256173dbd9c.jpg?aki_policy=profile_medium",
+            "is_superhost": true
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 27,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 4,
+          "beds": 4,
+          "extra_host_languages": [],
+          "id": 5864832,
+          "instant_bookable": false,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.62709188955158,
+          "lng": 3.0548141831449382,
+          "localized_city": "Lille",
+          "name": "Maison familiale en centre ville",
+          "person_capacity": 6,
+          "picture_count": 15,
+          "picture_url": "https://a0.muscache.com/im/pictures/f8856424-ddd4-4515-b4e4-804c55d8ffe5.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/f8856424-ddd4-4515-b4e4-804c55d8ffe5.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/90b6343f-f9a8-48e2-8f12-13d1692a9c0c.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/135c1112-769c-40cd-8559-b260add649ff.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/d5945e57-7a7f-4752-b41a-3b58a650c1bb.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/376cd84c-0908-42b1-8e72-45a5d08fb773.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AXZ9W/v7GcfIx/Lz7Pv5+AFCTTEMBxEoIiyxt7MYFxQBRlA3GR8RHyYW3dXZ7+7xAUZUIxcbDRgUIODg1gMAALVDGdgP+qveAAAAAElFTkSuQmCC",
+          "reviews_count": 10,
+          "star_rating": 4.5,
+          "room_type": "Logement entier",
+          "room_type_category": "entire_home",
+          "property_type": "Maison",
+          "user": {
+            "first_name": "Mathilde",
+            "id": 30454254,
+            "thumbnail_url": "https://a0.muscache.com/im/users/30454254/profile_pic/1427963587/original.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Mathilde",
+            "id": 30454254,
+            "thumbnail_url": "https://a0.muscache.com/im/users/30454254/profile_pic/1427963587/original.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": false,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 124,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [
+            "en",
+            "es"
+          ],
+          "id": 17467702,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.6112916794176,
+          "lng": 3.077222750004919,
+          "localized_city": "Ronchin",
+          "name": "Chambre Standing",
+          "person_capacity": 1,
+          "picture_count": 3,
+          "picture_url": "https://a0.muscache.com/im/pictures/c7ac361c-76e2-4484-ba63-92788e5dd8cb.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/c7ac361c-76e2-4484-ba63-92788e5dd8cb.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/5919f3a9-1fbf-42ac-b9e9-f4a47a05cb5e.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/4455486c-4d75-4393-a247-b345a851bb2a.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Ronchin",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAASUlEQVQIHWMsL8jj5eJSUFL/ziDAzsPDmBEf++bRAz1TWwlVc1VNNUZXK0s+flFhUUkHr0hzC03Ggqx8IRlDHrY/r5/f+/L9NwD/LhNWO9CV3AAAAABJRU5ErkJggg==",
+          "reviews_count": 5,
+          "star_rating": 4.5,
+          "room_type": "Chambre privée",
+          "room_type_category": "private_room",
+          "property_type": "Maison",
+          "user": {
+            "first_name": "Arnaud",
+            "id": 74420462,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/5017e192-885f-4c52-836f-7946f812b4eb.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Arnaud",
+            "id": 74420462,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/5017e192-885f-4c52-836f-7946f812b4eb.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 11,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 0,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 11589463,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.635651345066265,
+          "lng": 3.0404515851540186,
+          "localized_city": "Lille",
+          "name": "Studio pied à terre",
+          "person_capacity": 2,
+          "picture_count": 17,
+          "picture_url": "https://a0.muscache.com/ac/pictures/139acba5-f378-43b3-a188-9971b10d043c.jpg?interpolation=lanczos-none&size=x_medium&output-format=jpg&output-quality=70",
+          "picture_urls": [
+            "https://a0.muscache.com/ac/pictures/139acba5-f378-43b3-a188-9971b10d043c.jpg?interpolation=lanczos-none&size=x_medium&output-format=jpg&output-quality=70",
+            "https://a0.muscache.com/im/pictures/117c284f-c265-49c4-81d9-e6edffe736da.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/d4b70742-7201-4961-86dc-1341743eac35.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/ab268b8f-319c-43df-bf1d-083a37c8e341.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/5ce1a8cc-a036-4355-98f7-175984638029.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AbGqpgwKBwgHAwGhmJrm5+Xj2NMBooWB5Orl3unuAa51X+zv69X4AwGLkXUH//nw6fWDDxzPW/Wu/wAAAABJRU5ErkJggg==",
+          "reviews_count": 130,
+          "star_rating": 4.5,
+          "room_type": "Logement entier",
+          "room_type_category": "entire_home",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Arnaud",
+            "id": 61294853,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/beac812f-1ba7-4791-a385-f58a5d2dcb11.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Arnaud",
+            "id": 61294853,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/beac812f-1ba7-4791-a385-f58a5d2dcb11.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 32,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 0,
+          "beds": 1,
+          "extra_host_languages": [],
+          "id": 17487091,
+          "instant_bookable": true,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.62863375403608,
+          "lng": 3.0565136655386733,
+          "localized_city": "Lille",
+          "name": "Studio rénové prox.Lille centre",
+          "person_capacity": 2,
+          "picture_count": 13,
+          "picture_url": "https://a0.muscache.com/im/pictures/03d9725c-3ff4-41b5-9b45-f8d12028e4e0.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/03d9725c-3ff4-41b5-9b45-f8d12028e4e0.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/cd1cdef1-333d-45da-a455-d953841aee2b.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/ff327cbe-21e6-482a-941c-3048e054b1b1.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/a01e2248-a3f1-4db9-a818-2af9b833b789.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/7489766e-64ea-4d81-a589-1ed8b7423b8f.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZaUlvru7CQlJev3+w4XGwF8dXkA9vYtKyOYmpUjNUEBYVFLAv//DgsKztjZ/AMHGsAU+YrmItYAAAAASUVORK5CYII=",
+          "reviews_count": 16,
+          "star_rating": 5.0,
+          "room_type": "Logement entier",
+          "room_type_category": "entire_home",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Florence",
+            "id": 75420714,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/e5ed5e17-c4a0-487f-accf-829fd1d101e5.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Florence",
+            "id": 75420714,
+            "thumbnail_url": "https://a0.muscache.com/im/pictures/e5ed5e17-c4a0-487f-accf-829fd1d101e5.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": true,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 40,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      },
+      {
+        "listing": {
+          "bedrooms": 1,
+          "beds": 1,
+          "extra_host_languages": [
+            "es",
+            "ar"
+          ],
+          "id": 8535074,
+          "instant_bookable": false,
+          "is_business_travel_ready": false,
+          "is_new_listing": false,
+          "is_superhost": false,
+          "lat": 50.614840538274144,
+          "lng": 3.051636579033052,
+          "localized_city": "Lille",
+          "name": "chambre dans appartement n1",
+          "person_capacity": 1,
+          "picture_count": 8,
+          "picture_url": "https://a0.muscache.com/im/pictures/ebc32c34-db9d-4299-a05f-cd5c290da7e3.jpg?aki_policy=x_medium",
+          "picture_urls": [
+            "https://a0.muscache.com/im/pictures/ebc32c34-db9d-4299-a05f-cd5c290da7e3.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/9fe44910-154a-460a-9b0f-a37f74837986.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/19cdf99f-e1ec-4f42-bf09-c51a6a082657.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/6fef1621-278a-4be4-af0d-d58be6cf5d04.jpg?aki_policy=x_medium",
+            "https://a0.muscache.com/im/pictures/efb3a349-deab-44c9-ae7c-aa6b85823473.jpg?aki_policy=x_medium"
+          ],
+          "public_address": "Lille",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWN00OSSNAuVlVW4ffeOtCgro6MmN7+ml7CwyP0nj9UU+BlNFdmVbJPYODiP7lypa6gJAB3VDE3r+deeAAAAAElFTkSuQmCC",
+          "reviews_count": 104,
+          "star_rating": 4.5,
+          "room_type": "Chambre privée",
+          "room_type_category": "private_room",
+          "property_type": "Appartement",
+          "user": {
+            "first_name": "Zoulikha",
+            "id": 44860607,
+            "thumbnail_url": "https://a0.muscache.com/im/users/44860607/profile_pic/1443298658/original.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "primary_host": {
+            "first_name": "Zoulikha",
+            "id": 44860607,
+            "thumbnail_url": "https://a0.muscache.com/im/users/44860607/profile_pic/1443298658/original.jpg?aki_policy=profile_medium",
+            "is_superhost": false
+          },
+          "listing_tags": []
+        },
+        "pricing_quote": {
+          "available": false,
+          "can_instant_book": false,
+          "check_in": null,
+          "check_out": null,
+          "guests": 1,
+          "rate": {
+            "amount": 18,
+            "currency": "EUR"
+          },
+          "rate_type": "nightly",
+          "is_good_price": null,
+          "average_booked_price": null
+        },
+        "viewed_at": null
+      }
+    ],
+    "metadata": {
+      "search": {
+        "business_travel_reward_data": {},
+        "business_travel_ready_data": {
+          "filter_criteria": {},
+          "show_btr_upsell": false
+        },
+        "is_business_travel_verified": false,
+        "is_last_minute_eligible": false,
+        "last_minute_show_dist_sort": false,
+        "mobile_session_id": "Yh2BJRXf",
+        "native_currency": "EUR",
+        "price_type": "nightly",
+        "price_range_max_native": 1000,
+        "price_range_min_native": 9,
+        "search_id": "26f77725-5931-4c14-a90a-2dbfdab42283"
+      },
+      "pagination": {
+        "next_offset": 18,
+        "result_count": 18
+      },
+      "facets": {
+        "availability": [
+          {
+            "key": "Instant Book",
+            "value": "Réservation instantanée",
+            "count": 887
+          },
+          {
+            "key": "Business Travel Ready",
+            "value": "Business Travel Ready",
+            "count": 103
+          }
+        ],
+        "room_type": [
+          {
+            "key": "Entire home/apt",
+            "value": "Logement entier",
+            "count": 3079
+          },
+          {
+            "key": "Private room",
+            "value": "Chambre privée",
+            "count": 1569
+          },
+          {
+            "key": "Shared room",
+            "value": "Chambre partagée",
+            "count": 48
+          }
+        ],
+        "facilities_amenities": [
+          {
+            "key": 21,
+            "value": "Ascenseur",
+            "count": 1082
+          },
+          {
+            "key": 23,
+            "value": "Stationnement gratuit dans la rue",
+            "count": 6
+          },
+          {
+            "key": 9,
+            "value": "Parking gratuit sur place",
+            "count": 2012
+          },
+          {
+            "key": 15,
+            "value": "Salle de sport",
+            "count": 63
+          },
+          {
+            "key": 25,
+            "value": "Jacuzzi",
+            "count": 52
+          },
+          {
+            "key": 10,
+            "value": "Stationnement payant à l'extérieur des locaux",
+            "count": 1
+          },
+          {
+            "key": 7,
+            "value": "Piscine",
+            "count": 42
+          },
+          {
+            "key": 6,
+            "value": "Accessible aux personnes à mobilité réduite",
+            "count": 308
+          }
+        ],
+        "house_rules_amenities": [
+          {
+            "key": 32,
+            "value": "Adapté aux événements",
+            "count": 403
+          },
+          {
+            "key": 12,
+            "value": "Animaux acceptés",
+            "count": 567
+          },
+          {
+            "key": 11,
+            "value": "Logement fumeur",
+            "count": 1039
+          }
+        ],
+        "other_amenities": [
+          {
+            "key": 8,
+            "value": "Cuisine",
+            "count": 4320
+          },
+          {
+            "key": 3,
+            "value": "Internet",
+            "count": 2403
+          },
+          {
+            "key": 1,
+            "value": "Télévision",
+            "count": 3283
+          },
+          {
+            "key": 41,
+            "value": "Shampooing",
+            "count": 2600
+          },
+          {
+            "key": 30,
+            "value": "Chauffage",
+            "count": 4526
+          },
+          {
+            "key": 5,
+            "value": "Climatisation",
+            "count": 125
+          },
+          {
+            "key": 33,
+            "value": "Lave-linge",
+            "count": 3017
+          },
+          {
+            "key": 34,
+            "value": "Sèche-linge",
+            "count": 1102
+          },
+          {
+            "key": 4,
+            "value": "Internet sans fil",
+            "count": 4312
+          },
+          {
+            "key": 2,
+            "value": "Télévision par câble",
+            "count": 806
+          },
+          {
+            "key": 16,
+            "value": "Petit déjeuner",
+            "count": 1204
+          },
+          {
+            "key": 31,
+            "value": "Pour familles/enfants",
+            "count": 2966
+          },
+          {
+            "key": 27,
+            "value": "Cheminée",
+            "count": 345
+          },
+          {
+            "key": 28,
+            "value": "Interphone",
+            "count": 1430
+          },
+          {
+            "key": 14,
+            "value": "Portier",
+            "count": 33
+          },
+          {
+            "key": 44,
+            "value": "Cintres",
+            "count": 2572
+          },
+          {
+            "key": 46,
+            "value": "Fer à repasser",
+            "count": 2286
+          },
+          {
+            "key": 45,
+            "value": "Sèche-cheveux",
+            "count": 2373
+          },
+          {
+            "key": 47,
+            "value": "Espace de travail pour ordinateur portable",
+            "count": 2107
+          },
+          {
+            "key": 42,
+            "value": "Porte de la chambre avec verrou",
+            "count": 614
+          },
+          {
+            "key": 51,
+            "value": "Entrée dans les lieux autonome",
+            "count": 103
+          },
+          {
+            "key": 58,
+            "value": "Télévision",
+            "count": 3373
+          }
+        ],
+        "top_other_amenities": [
+          {
+            "key": 4,
+            "value": "Internet sans fil",
+            "count": 4312
+          },
+          {
+            "key": 1,
+            "value": "Télévision",
+            "count": 3283
+          },
+          {
+            "key": 58,
+            "value": "Télévision",
+            "count": 3373
+          },
+          {
+            "key": 8,
+            "value": "Cuisine",
+            "count": 4320
+          }
+        ],
+        "bedrooms": [
+          {
+            "key": 8,
+            "value": "8",
+            "count": 3
+          },
+          {
+            "key": 7,
+            "value": "7",
+            "count": 7
+          },
+          {
+            "key": 6,
+            "value": "6",
+            "count": 15
+          },
+          {
+            "key": 5,
+            "value": "5",
+            "count": 49
+          },
+          {
+            "key": 4,
+            "value": "4",
+            "count": 156
+          },
+          {
+            "key": 3,
+            "value": "3",
+            "count": 389
+          },
+          {
+            "key": 2,
+            "value": "2",
+            "count": 1089
+          },
+          {
+            "key": 1,
+            "value": "1",
+            "count": 4303
+          },
+          {
+            "key": 0,
+            "value": "0",
+            "count": 4853
+          }
+        ],
+        "bathrooms": [
+          {
+            "key": 8,
+            "value": "8.0",
+            "count": 3
+          },
+          {
+            "key": 7.5,
+            "value": "7.5",
+            "count": 3
+          },
+          {
+            "key": 7.0,
+            "value": "7.0",
+            "count": 6
+          },
+          {
+            "key": 6.5,
+            "value": "6.5",
+            "count": 6
+          },
+          {
+            "key": 6.0,
+            "value": "6.0",
+            "count": 6
+          },
+          {
+            "key": 5.5,
+            "value": "5.5",
+            "count": 6
+          },
+          {
+            "key": 5.0,
+            "value": "5.0",
+            "count": 10
+          },
+          {
+            "key": 4.5,
+            "value": "4.5",
+            "count": 13
+          },
+          {
+            "key": 4.0,
+            "value": "4.0",
+            "count": 20
+          },
+          {
+            "key": 3.5,
+            "value": "3.5",
+            "count": 25
+          },
+          {
+            "key": 3.0,
+            "value": "3.0",
+            "count": 55
+          },
+          {
+            "key": 2.5,
+            "value": "2.5",
+            "count": 80
+          },
+          {
+            "key": 2.0,
+            "value": "2.0",
+            "count": 360
+          },
+          {
+            "key": 1.5,
+            "value": "1.5",
+            "count": 541
+          },
+          {
+            "key": 1.0,
+            "value": "1.0",
+            "count": 4812
+          },
+          {
+            "key": 0.5,
+            "value": "0.5",
+            "count": 4838
+          },
+          {
+            "key": 0.0,
+            "value": "0.0",
+            "count": 4853
+          }
+        ],
+        "beds": [
+          {
+            "key": 16,
+            "value": "16",
+            "count": 5
+          },
+          {
+            "key": 15,
+            "value": "15",
+            "count": 6
+          },
+          {
+            "key": 14,
+            "value": "14",
+            "count": 8
+          },
+          {
+            "key": 13,
+            "value": "13",
+            "count": 8
+          },
+          {
+            "key": 12,
+            "value": "12",
+            "count": 11
+          },
+          {
+            "key": 11,
+            "value": "11",
+            "count": 13
+          },
+          {
+            "key": 10,
+            "value": "10",
+            "count": 17
+          },
+          {
+            "key": 9,
+            "value": "9",
+            "count": 23
+          },
+          {
+            "key": 8,
+            "value": "8",
+            "count": 33
+          },
+          {
+            "key": 7,
+            "value": "7",
+            "count": 59
+          },
+          {
+            "key": 6,
+            "value": "6",
+            "count": 101
+          },
+          {
+            "key": 5,
+            "value": "5",
+            "count": 181
+          },
+          {
+            "key": 4,
+            "value": "4",
+            "count": 379
+          },
+          {
+            "key": 3,
+            "value": "3",
+            "count": 773
+          },
+          {
+            "key": 2,
+            "value": "2",
+            "count": 2119
+          },
+          {
+            "key": 1,
+            "value": "1",
+            "count": 4845
+          },
+          {
+            "key": 0,
+            "value": "0",
+            "count": 4853
+          }
+        ],
+        "languages": [
+          {
+            "key": 4096,
+            "value": "Bahasa Indonesia",
+            "count": 4
+          },
+          {
+            "key": 4194304,
+            "value": "Bahasa Malaysia",
+            "count": 3
+          },
+          {
+            "key": 16777216,
+            "value": "Dansk",
+            "count": 1
+          },
+          {
+            "key": 4,
+            "value": "Deutsch",
+            "count": 181
+          },
+          {
+            "key": 1,
+            "value": "English",
+            "count": 1786
+          },
+          {
+            "key": 64,
+            "value": "Español",
+            "count": 676
+          },
+          {
+            "key": 2,
+            "value": "Français",
+            "count": 4739
+          },
+          {
+            "key": 512,
+            "value": "Hindi",
+            "count": 3
+          },
+          {
+            "key": 16,
+            "value": "Italiano",
+            "count": 117
+          },
+          {
+            "key": 536870912,
+            "value": "Magyar",
+            "count": 7
+          },
+          {
+            "key": 8192,
+            "value": "Nederlands",
+            "count": 64
+          },
+          {
+            "key": 67108864,
+            "value": "Norsk",
+            "count": 3
+          },
+          {
+            "key": 2097152,
+            "value": "Polski",
+            "count": 17
+          },
+          {
+            "key": 1024,
+            "value": "Português",
+            "count": 46
+          },
+          {
+            "key": 134217728,
+            "value": "Suomi",
+            "count": 2
+          },
+          {
+            "key": 33554432,
+            "value": "Svenska",
+            "count": 2
+          },
+          {
+            "key": 8388608,
+            "value": "Tagalog",
+            "count": 1
+          },
+          {
+            "key": 2048,
+            "value": "Türkçe",
+            "count": 2
+          },
+          {
+            "key": 268435456,
+            "value": "Čeština",
+            "count": 3
+          },
+          {
+            "key": 262144,
+            "value": "Ελληνικά",
+            "count": 3
+          },
+          {
+            "key": 32,
+            "value": "Русский",
+            "count": 18
+          },
+          {
+            "key": 1073741824,
+            "value": "українська",
+            "count": 2
+          },
+          {
+            "key": 1048576,
+            "value": "עברית",
+            "count": 2
+          },
+          {
+            "key": 256,
+            "value": "العربية",
+            "count": 49
+          },
+          {
+            "key": 128,
+            "value": "中文",
+            "count": 37
+          },
+          {
+            "key": 8,
+            "value": "日本語",
+            "count": 5
+          }
+        ],
+        "first_languages": [
+          {
+            "key": 2,
+            "value": "Français",
+            "count": 4739
+          },
+          {
+            "key": 1,
+            "value": "English",
+            "count": 1786
+          },
+          {
+            "key": 64,
+            "value": "Español",
+            "count": 676
+          }
+        ],
+        "description_languages": [
+          {
+            "key": 4,
+            "value": "Deutsch",
+            "count": 26
+          },
+          {
+            "key": 1,
+            "value": "English",
+            "count": 771
+          },
+          {
+            "key": 64,
+            "value": "Español",
+            "count": 46
+          },
+          {
+            "key": 2,
+            "value": "Français",
+            "count": 4717
+          },
+          {
+            "key": 16,
+            "value": "Italiano",
+            "count": 10
+          },
+          {
+            "key": 536870912,
+            "value": "Magyar",
+            "count": 2
+          },
+          {
+            "key": 8192,
+            "value": "Nederlands",
+            "count": 34
+          },
+          {
+            "key": 67108864,
+            "value": "Norsk",
+            "count": 1
+          },
+          {
+            "key": 2097152,
+            "value": "Polski",
+            "count": 2
+          },
+          {
+            "key": 1024,
+            "value": "Português",
+            "count": 4
+          },
+          {
+            "key": 262144,
+            "value": "Ελληνικά",
+            "count": 1
+          },
+          {
+            "key": 32,
+            "value": "Русский",
+            "count": 3
+          },
+          {
+            "key": 128,
+            "value": "中文",
+            "count": 16
+          },
+          {
+            "key": 8,
+            "value": "日本語",
+            "count": 1
+          }
+        ],
+        "first_description_languages": [
+          {
+            "key": 2,
+            "value": "Français",
+            "count": 4717
+          },
+          {
+            "key": 1,
+            "value": "English",
+            "count": 771
+          },
+          {
+            "key": 64,
+            "value": "Español",
+            "count": 46
+          }
+        ]
+      },
+      "listing_tags": {},
+      "listings_count": 1001,
+      "urgency_commitment": {
+        "message": {
+          "headline": null,
+          "body": null,
+          "contextual_message": null
+        },
+        "message_type": null,
+        "show_percent_listings_left_message": false,
+        "listings_left_as_percent": null
+      },
+      "golden_ticket_urgency_commitment": {
+        "message": {
+          "headline": null,
+          "body": null,
+          "contextual_message": null,
+          "visualization_data": null,
+          "gt_modal_headline": null,
+          "gt_modal_body": null
+        },
+        "message_type": null,
+        "show_percent_listings_left_message": false,
+        "listings_left_as_percent": null
+      },
+      "market_info": {
+        "headline": "",
+        "body": "",
+        "data": []
+      },
+      "price_histogram": {
+        "average_price": 66,
+        "histogram": [
+          4,
+          5,
+          14,
+          48,
+          72,
+          173,
+          338,
+          358,
+          584,
+          283,
+          518,
+          394,
+          316,
+          303,
+          241,
+          283,
+          117,
+          97,
+          167,
+          37,
+          81,
+          92,
+          8,
+          15,
+          31,
+          11,
+          10,
+          36,
+          5,
+          8,
+          5,
+          7,
+          4,
+          6,
+          3,
+          6,
+          3,
+          0,
+          3,
+          0,
+          1,
+          3,
+          0,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0,
+          3
+        ]
+      },
+      "search_feed_items": [],
+      "avg_price_by_room_type": {
+        "ratio": {
+          "Entire home/apt": 0.655664395229983,
+          "Private room": 0.33411413969335607,
+          "Shared room": 0.010221465076660987
+        },
+        "avg_price": {
+          "Private room": 53,
+          "Shared room": 38,
+          "Entire home/apt": 96
+        }
+      },
+      "messages": {},
+      "overrides": {},
+      "breadcrumbs": [
+        {
+          "location_name": "France",
+          "canonical_location_name": "France",
+          "type": "country"
+        },
+        {
+          "location_name": "Hauts-de-France",
+          "canonical_location_name": "Hauts-de-France, France",
+          "type": "state"
+        },
+        {
+          "location_name": "Lille",
+          "canonical_location_name": "Lille, France",
+          "type": "city"
+        }
+      ],
+      "guided_search": {
+        "avg_gbm_score": 85.17831993103027,
+        "avg_usd_price": 42.611111111111114,
+        "min_stars": 4.0,
+        "min_review_count": 5.0
+      },
+      "location": {
+        "canonical_location": "Lille, France",
+        "display_location": "Lille"
+      },
+      "geography": {
+        "accuracy": 4,
+        "precision": "city",
+        "country_code": "FR",
+        "country": "France",
+        "result_type": "locality",
+        "state_short": "Hauts-de-France",
+        "state": "Hauts-de-France",
+        "city": "Lille",
+        "lat": 50.62925,
+        "lng": 3.057256,
+        "place_id": "ChIJEW4ls3nVwkcRYGNkgT7xCgQ"
+      },
+      "remarketing_ids": [
+        8613750,
+        15794687,
+        15794687,
+        10817826,
+        3233224,
+        17740841,
+        8145326,
+        15794687,
+        15655457,
+        15794687,
+        10049124,
+        15655457,
+        7119414,
+        8145326,
+        8145326,
+        9591268
+      ]
+    }
+  }
+}

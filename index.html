@@ -12,7 +12,7 @@
 	</head>
 	<body>
 
-		<!-- Preloader -->
+		<!-- Loader -->
 		<div id="preloader">
 			<div class="preloader-wrapper big active">
 				<div class="spinner-layer spinner-green-only">
@@ -36,16 +36,16 @@
 				<p>Recherchez l'hôtel idéal pour votre séjour en effectuant une simple recherche.</p>
 			</div>
 			<div class="row">
-				<form class="col s12" action="" method="GET" onsubmit="search(); return false;">
+				<form class="col s12" onsubmit="search(); return false;">
 					<div class="row">
-						<!-- Place -->
+						<!-- Location -->
 						<div class="input-field col s12">
-							<label for="place">Lieu : </label>
-							<input placeholder="Ex: Paris, Dijon, Marseille ..." id="place" type="text" class="validate">
+							<label for="location">Lieu : </label>
+							<input value="Lille" placeholder="Ex: Paris, Dijon, Marseille ..." id="location" type="text" class="validate" required>
 						</div>
-						<!-- Travelers -->
+						<!-- Guests -->
 						<div class="input-field col s12">
-							<select id="travelers">
+							<select id="guests">
 								<option value="1" selected>1</option>
 								<option value="2">2</option>
 								<option value="3">3</option>
@@ -59,18 +59,18 @@
 							</select>
 							<label>Voyageur(s)</label>
 						</div>
-						<!-- Date from -->
+						<!-- Date checkin -->
 						<div class="input-field col s12 dateLabel">
 							Date de début
-							<input type="date" class="datepicker" id="datepicker-from">
+							<input type="date" class="datepicker" id="date-checkin" required>
 						</div>
-						<!-- Date to -->
+						<!-- Date checkout -->
 						<div class="input-field col s12 dateLabel">
 							Date de fin
-							<input type="date" class="datepicker" id="datepicker-to">
+							<input type="date" class="datepicker" id="date-checkout" required>
 						</div>
 
-						<input type="submit" class="waves-effect waves-light btn" value="Rechercher">
+						<input type="submit" id="formButton" class="waves-effect waves-light btn" value="Rechercher">
 					</div>
 				</form>
 			</div>
