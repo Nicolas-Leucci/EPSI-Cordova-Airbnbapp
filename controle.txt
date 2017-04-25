@@ -1,0 +1,45 @@
+# Projet Développement d'Applications Crossplatform
+
+## Objectifs
+Développer une application mobile crossplatform avec les technologies étudiées en cours : elle sera développée en deux versions : une version Cordova et une version avec React Native.
+Les deux versions présenteront les mêmes fonctionnalités, l'exercice permettra de comparer les deux technologies.
+
+## Cahier des charges
+L'application doit contenir :
+- un formulaire de recherche avec plusieurs champs :
+    + un champ de saisie "Lieu" (champ texte obligatoire)
+    + un champ "Voyageurs" qui permet de renseigner le nombre de personnes (champ numérique, 1 personne minimum)
+    + deux champs "Du" et "Au" permettant de préciser les dates de séjour (champs date, la date de début doit être supérieure à la date du jour, la date de fin supérieure à la date de début)
+    + un bouton de recherche qui permet de lancer la recherche et d'afficher les résultats
+- une liste de résultats avec pour chaque logement :
+    + la photo du logement
+    + son titre
+- une page de détail du logement avec :
+    + la photo du logement
+    + son titre
+    + un bouton pour ajouter le séjour à son agenda (titre + dates)
+    + un bouton pour partager le séjour à un ami par sms (titre + dates)
+
+## Indications techniques
+L'application devra appeler l'API d'Airbnb à l'adresse suivante :
+https://www.airbnb.fr/search/search_results/
+L'API Airbnb prend plusieurs paramètres en GET : 
+- location (Lieu)
+- guests (nombre de voyageurs)
+- checkin (Date début)
+- checkout (Date fin)
+Exemple : 
+https://www.airbnb.fr/search/search_results/?location=Lille&guests=1&checkin=2017-03-31&checkout=2017-04-01
+
+## Points d'attention
+La notation prendra en compte les critères suivants :
+- la conformité au cahier des charges
+- le bon fonctionnement de l'application (absence de bugs)
+- la propreté du code (indentation, commentaires, nommage des variables et fonctions)
+- les performances de l'application
+- la propreté de la mise en page
+
+## Rendu
+Pour le projet Cordova : Le fichier config.xml, le dossier www, et les id des plugins utilisés.
+Pour le projet React Native : Le contenu du dossier du projet SANS les sous-dossiers android, ios et node_modules.
+La livraison se fera soit via le téléchargement d'un fichier zip (pas de pièce jointe) soit par l'accès à un repository git (Github / FramaGit / BitBucket).
