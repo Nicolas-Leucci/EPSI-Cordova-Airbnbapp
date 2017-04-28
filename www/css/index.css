@@ -34,3 +34,15 @@
 	margin-top: 10px;
 	margin-bottom: 20px;
 } 
+
+.card {
+	word-break: break-all;
+}
+
+.modal-fixed-footer {
+	margin-bottom: 15px;
+}
+
+.modal img {
+	max-width: 100%;
+}

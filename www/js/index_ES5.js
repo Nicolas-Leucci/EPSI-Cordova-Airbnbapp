@@ -1,7 +1,8 @@
 // Variables
 var todayTimestamp = new Date().getTime();
+document.addEventListener("deviceready", onDeviceReady, false);
 
-$(document).ready(function() {
+function onDeviceReady() {
 
     // Attendre pour le chargement des scripts
     // Pour un rendu optimal de MaterializeCSS avec Jquery
@@ -17,7 +18,7 @@ $(document).ready(function() {
     // Materialize loaders
     $('select').material_select();
 
-});
+};
 
 // Recherche avec les valeurs du formulaire
 function search() {
@@ -42,7 +43,7 @@ function search() {
 	else {
 
 		// Désactiver le bouton
-		toggleButton(false);
+		disableButton(true);
 		// Réinitialiser la vue des résultats
 	    $('#results').html('');
 
@@ -69,7 +70,7 @@ function search() {
 	    	}
 
 	    	// Réactiver le bouton
-	    	toggleButton(true);
+	    	disableButton(false);
 	    });
 
 	}
@@ -79,11 +80,7 @@ function search() {
 function showResults(data, searchValue) {
 
 	// Affiche le titre	
-	$('#results').append(`
-		<hr>
-		<h4>` + data.length + ` résultat(s)</h4>
-		<br><br>
-	`);
+	$('#results').append('<hr><h4>' + data.length + ' résultat(s)</h4><br><br>');
 
 	// Contient un tableau des résultats
 	data.forEach(function(element, index){
@@ -99,42 +96,52 @@ function showResults(data, searchValue) {
 		sharingMessage 		= sharingMessage.replace(/'/g, "\\'");
 
 		// Ajoute l'objet à la vue
-		$('#results').append(`
-			<div class="row">
-				<div class="col s1 m2"></div>
-				<div class="col s10 m8">
-			      <div class="card">
-			        <div class="card-image">
-			          <img src="`+imgSrc+`">
-			          <div class="card-title"></div>
-			        </div>
-			        <div class="card-content">
-			          <p class="bold">`+title+`</p>
-			          <p>`+description+`</p>
-			        </div>
-			        <div class="card-action">
-			          <a class="waves-effect waves-light btn blue" onclick="share('`+sharingMessage+`')">Partager</a>
-			          <br><br> 
-			          <a class="waves-effect waves-light btn green" onclick="addToCalendar('`+ title +`', '`+ element['listing'].localized_city +`', '`+ description +`', '`+ searchValue.checkin +`', '`+ searchValue.checkout +`')">Réserver</a>
-			        </div>
-			      </div>
-			    </div>
-			    <div class="col s1 m2"></div>
-			</div>
-		`);
+		$('#results').append('<div class="row">'+
+			'	<div class="col s1 m2"></div>'+
+			'	<div class="col s10 m8">'+
+			'      <div class="card">'+
+			'        <div class="card-image">'+
+			'          <img src="'+imgSrc+'" alt="hostel_img">'+
+			'          <div class="card-title"></div>'+
+			'        </div>'+
+			'        <div class="card-content">'+
+			'          <p class="bold">'+title+'</p>'+
+			'        </div>'+
+			'        <div class="card-action">'+
+			'			<a class="waves-effect waves-light btn blue" href="#modal'+index+'">Voir</a>'+
+			'        </div>'+
+			'      </div>'+
+			'    </div>'+
+			'    <div class="col s1 m2"></div>'+
+			'</div>');
+
+		// Ajoute la modale pour chaque résultat
+		// TODO: Dans une meilleure version, la rendre générique
+		$('#results').append('<div id="modal'+index+'" class="modal">'+
+		'    <div class="modal-content">'+
+		'	  <img src="'+imgSrc+'" alt="hostel_img">'+
+		'      <p class="bold">'+title+'</p>'+
+		'      <p>'+description+'</p>'+
+		'    </div>'+
+		'    <div class="modal-fixed-footer">'+
+		'		<a class="waves-effect waves-light btn blue" onclick="share(\''+sharingMessage+'\')">Partager</a>'+
+		'		<a class="waves-effect waves-light btn green" onclick="addToCalendar(\''+ title +'\', \''+ element['listing'].localized_city +'\', \''+ description +'\', \''+ searchValue.checkin +'\', \''+ searchValue.checkout +'\')">Réserver</a>'+
+		'    </div>'+
+		'  </div>');
 	});
 
 	// Affiche le titre	
-	$('#results').append(`
-		<a class="waves-effect waves-light btn" onclick="smoothScrollTo('main-container', 1000);">Retour en haut de page</a>
-	`);
+	$('#results').append('<a class="waves-effect waves-light btn" onclick="smoothScrollTo(\'main-container\', 1000);">Retour en haut de page</a>');
+
+	// Lance le chargement des modales après leurs générations dans le DOM
+	$('.modal').modal();
 
 }
 
 // Modification du bouton de recherche
-function toggleButton(disable) {
+function disableButton(disable) {
 
-	if(disable){
+	if(!disable){
 		$('#formButton').disabled = false;
 		$('#formButton').val("Rechercher");
 	}
@@ -166,18 +173,41 @@ function getCurrentDate (addDay) {
 }
 
 // Démarre la fonction de partage sur mobile
-function share(message) {
-	window.plugins.socialsharing.share(message);
+function share(message) {	
+	if(!window.plugins.socialsharing)
+  		alert('Une erreur est survenue avec le plugin de partage.');
+  	else
+		// Invite l'utilisateur à partager avec ses applications favorites
+		window.plugins.socialsharing.share(message);
 }
 
+// Propose l'ajout d'un évènement au calendrier
 function addToCalendar(title, location, notes, checkinDate, checkoutDate) {
-	var calendar = window.plugins.calendar;
-	var title = title;
-	var location = location;
-	var notes = notes;
-	var start = checkinDate; // Jan 1st, 2015 20:00
-	var end = checkoutDate;   // Jan 1st, 2015 22:00
-	var calendarName = "MyCal";
 
-	calendar.createEventInteractively(title, location, notes, start, end);
+	// YYYY-MM-DD
+	var startDateArray = checkinDate.split('-');
+	var endDateArray = checkoutDate.split('-');
+
+	// Dates de début et fin avec les dates données
+	// Soustraction avec le mois car Janvier = 0 et Décembre = 11
+	var startDate    = new Date(startDateArray[0], startDateArray[1]-1, startDateArray[2],0,0,0,0,0);
+	var endDate      = new Date(endDateArray[0], endDateArray[1]-1, endDateArray[2],0,0,0,0,0);
+
+	// Callback
+	var success 	 = function(message) { console.log("Success: " + JSON.stringify(message)); };
+  	var error 		 = function(message) { console.log("Error: " + message); };
+
+  	if(!window.plugins.calendar)
+  		alert('Une erreur est survenue avec le plugin Calendrier.');
+  	else
+		// Invite l'utilisateur à modifier / valider l'évènement
+		window.plugins.calendar.createEventInteractively(title, location, notes, startDate, endDate, success, error);
 }
+
+// Sharing plugin
+// https://plugins.telerik.com/cordova/plugin/socialsharing
+// https://github.com/Telerik-Verified-Plugins/SocialSharing
+
+// Calendar plugin
+// https://plugins.telerik.com/cordova/plugin/calendar
+// https://github.com/Telerik-Verified-Plugins/Calendar
